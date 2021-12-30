@@ -1,5 +1,6 @@
 <img align="left" alt="van-gif" height="150" style="border-radius:50px;" src="https://github.com/vanessabastos/images/blob/master/van.gif">
 Olá, sou Vanessa Bastos 🐞🏵️
+
 Sou estudante de Desenvolvimento Web 👩🏾‍💻
 
 <div style="display: inline_block"><br>
