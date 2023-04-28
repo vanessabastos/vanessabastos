@@ -27,5 +27,7 @@ Estudante de Desenvolvimento Web 👩🏾‍💻
   <a href="https://www.instagram.com/vanrsb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vanessa9559@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vanessa-reis-santos-bastos-6018b274" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>  
+</div>
+
+![snake gif](https://github.com/vanessabastos/vanessabastos/blob/output/github-contribution-grid-snake.svg)
 
