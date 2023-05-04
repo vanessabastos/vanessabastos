@@ -65,7 +65,7 @@ Mas vi na tecnologia uma oportunidade de novos desafios e descobertas.:woman_tec
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/vanessa-reis-santos-bastos-6018b274/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedinlogoColor=white">
+      <img href="https://www.linkedin.com/in/vanessa-reis-santos-bastos-6018b274/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedinlogoColor=white">
     </a> 
 </div>
 
